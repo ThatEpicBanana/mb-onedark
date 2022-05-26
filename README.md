@@ -4,3 +4,6 @@ A recolor of the amazing [Fluenx Dark](https://getmusicbee.com/addons/skins/233/
 
 Colors are taken from the [Neovim](https://github.com/joshdick/onedark.vim) and [VSCode](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) extensions.
 
+### Example:
+
+![example image](./Examples/example.png)
